@@ -10,6 +10,10 @@
   },
   "homepage": "https://portmem.com",
   "privacyPolicyUrl": "https://portmem.com/privacy.html",
+  "termsOfServiceUrl": "https://portmem.com/terms.html",
+  "supportUrl": "https://portmem.com/support.html",
+  "documentationUrl": "https://portmem.com/mcp.html",
+  "repository": "https://github.com/andremir/portmem-plugin",
   "license": "MIT",
   "keywords": [
     "document review",
