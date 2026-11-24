@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "portmem": {
+      "type": "http",
+      "url": "https://mcp.portmem.com/mcp"
+    }
+  }
+}
