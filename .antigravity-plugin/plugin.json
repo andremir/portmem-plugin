@@ -1,0 +1,28 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "portmem",
+  "displayName": "PortMem",
+  "version": "1.0.0",
+  "description": "Check AI-written drafts against the source documents they rely on: wrong numbers, unsupported claims and omitted provisions.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Check this draft against my PortMem documents and tell me what it gets wrong",
+    "What do my PortMem documents say about events of default?",
+    "Show my last PortMem review. Which findings are still open?"
+  ],
+  "author": {
+    "name": "Portman LLC",
+    "email": "info@portmem.com",
+    "url": "https://portmem.com"
+  },
+  "homepage": "https://portmem.com",
+  "repository": "https://github.com/andremir/portmem-plugin",
+  "license": "MIT",
+  "keywords": [
+    "document review",
+    "verification",
+    "compliance",
+    "contracts",
+    "finance"
+  ]
+}

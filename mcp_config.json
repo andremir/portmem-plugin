@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "portmem": {
+      "serverUrl": "https://mcp.portmem.com/mcp"
+    }
+  }
+}
