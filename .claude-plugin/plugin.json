@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Check AI-written drafts against the source documents they rely on: wrong numbers, unsupported claims and omitted provisions.",
   "author": {
-    "name": "PortMan LLC",
+    "name": "PortMem",
     "email": "info@portmem.com",
     "url": "https://portmem.com"
   },

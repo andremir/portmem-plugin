@@ -32,3 +32,5 @@ with.
 - Setup steps for each assistant: https://portmem.com/mcp.html
 - Privacy: https://portmem.com/privacy.html
 - Support: https://portmem.com/support.html
+
+PortMem is made by Portman LLC.
