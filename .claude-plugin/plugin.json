@@ -1,7 +1,7 @@
 {
   "name": "portmem",
   "displayName": "PortMem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check AI-written drafts against the source documents they rely on: wrong numbers, unsupported claims and omitted provisions.",
   "author": {
     "name": "PortMem",
